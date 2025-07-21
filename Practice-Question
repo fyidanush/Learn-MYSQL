@@ -22,6 +22,7 @@ Display the details of customers who have not placed any orders (assume tables c
 
 
 🔧 DDL Practice Questions:
+
 Create a table named students with columns: student_id, name, age, and department.
 
 Modify the employees table to add a new column named joining_date of type DATE.

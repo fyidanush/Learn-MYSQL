@@ -1,0 +1,83 @@
+🔹 Categories of SQL Keywords
+✅ 1. Data Query Keywords (DQL)
+Used to retrieve data from a database.
+
+Keyword	Purpose
+SELECT	Fetch data from a table
+FROM	Specify the table(s) to query
+WHERE	Filter rows based on condition
+GROUP BY	Group rows sharing values
+ORDER BY	Sort result set
+HAVING	Filter groups (after GROUP BY)
+DISTINCT	Remove duplicates
+LIMIT	Limit the number of rows
+
+✅ 2. Data Definition Keywords (DDL)
+Used to define and modify structure of database objects like tables.
+
+Keyword	Purpose
+CREATE	Create tables, databases, etc.
+DROP	Delete tables, databases, etc.
+ALTER	Modify existing table structure
+RENAME	Rename a table or column
+TRUNCATE	Remove all rows, reset auto-increment
+
+✅ 3. Data Manipulation Keywords (DML)
+Used to manipulate data within tables.
+
+Keyword	Purpose
+INSERT	Add new rows to a table
+UPDATE	Modify existing rows
+DELETE	Delete rows from a table
+VALUES	Provide data values
+SET	Set column values in UPDATE
+
+✅ 4. Data Control Keywords (DCL)
+Used to control access to data.
+
+Keyword	Purpose
+GRANT	Give user privileges
+REVOKE	Remove user privileges
+
+✅ 5. Transaction Control Keywords (TCL)
+Used to manage transactions and changes.
+
+Keyword	Purpose
+COMMIT	Save all changes
+ROLLBACK	Undo changes since last commit
+SAVEPOINT	Set a save point for partial rollback
+BEGIN	Start a transaction
+
+✅ 6. Joins and Subqueries
+Keyword	Purpose
+JOIN	Combine rows from multiple tables
+INNER JOIN	Return matching rows
+LEFT JOIN	All rows from left, matched from right
+RIGHT JOIN	All rows from right, matched from left
+FULL JOIN	All rows from both tables
+ON	Specify join condition
+IN	Match value in list or subquery
+EXISTS	Check existence of subquery rows
+ANY, ALL	Compare to any/all values in subquery
+
+✅ 7. Constraints and Definitions
+Keyword	Purpose
+PRIMARY KEY	Unique identifier
+FOREIGN KEY	Link to primary key of another table
+NOT NULL	Prevent null values
+UNIQUE	Ensure all values are unique
+CHECK	Ensure condition is met
+DEFAULT	Set default value
+AUTO_INCREMENT	Automatically increment numeric value
+
+✅ 8. Miscellaneous Keywords
+Keyword	Purpose
+AS	Rename a column or table alias
+IS NULL	Check if value is NULL
+BETWEEN	Match a range of values
+LIKE	Match a pattern
+CASE	If-else logic in SQL
+CAST, CONVERT	Change data type
+UNION	Combine results from two queries
+ALL, ANY, SOME	Quantifiers
+

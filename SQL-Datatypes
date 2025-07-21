@@ -3,4 +3,7 @@ varchar - variable char till 65,355
 text - Just alaphabets
 -longText
 -mediumText
--
+Date
+-DateTime
+Year
+TimeStamp

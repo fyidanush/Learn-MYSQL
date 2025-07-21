@@ -1,0 +1,22 @@
+DQL:
+
+Retrieve the names and salaries of all employees from the employees table who earn more than ₹50,000.
+
+Find all customers from the customers table who are located in the city of "Chennai".
+
+Display the top 5 products from the products table with the highest price.
+
+Get the order details from the orders table for orders placed between '2024-01-01' and '2024-06-30'.
+
+List the names of employees from the employees table whose names start with the letter 'A'.
+
+Show the total number of orders placed by each customer from the orders table.
+
+Retrieve the product names and their categories from the products table where the category is either "Electronics" or "Books".
+
+Get a list of unique job titles from the employees table.
+
+Find the average salary of employees department-wise from the employees table.
+
+Display the details of customers who have not placed any orders (assume tables customers and orders are available).
+

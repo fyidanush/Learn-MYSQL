@@ -20,3 +20,24 @@ Find the average salary of employees department-wise from the employees table.
 
 Display the details of customers who have not placed any orders (assume tables customers and orders are available).
 
+
+🔧 DDL Practice Questions:
+Create a table named students with columns: student_id, name, age, and department.
+
+Modify the employees table to add a new column named joining_date of type DATE.
+
+Rename the table orders to customer_orders.
+
+Delete the projects table permanently from the database.
+
+Change the data type of the phone_number column in the contacts table from INT to VARCHAR(15).
+
+Drop the salary column from the staff table.
+
+Create a table products with a primary key on the column product_id.
+
+Add a foreign key constraint on orders.customer_id referencing customers.customer_id.
+
+Create a table departments with columns: dept_id, dept_name, and ensure dept_id is unique.
+
+Truncate the logs table to remove all its data but keep its structure.

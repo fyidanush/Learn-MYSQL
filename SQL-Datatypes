@@ -1,0 +1,6 @@
+Char - Input upto 255 both alphabets and numbers
+varchar - variable char till 65,355 
+text - Just alaphabets
+-longText
+-mediumText
+-

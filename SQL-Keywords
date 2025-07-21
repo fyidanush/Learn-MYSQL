@@ -8,10 +8,10 @@ SELECT	            Fetch data from a table
 FROM	            Specify the table(s) to query
 WHERE	            Filter rows based on condition
 GROUP BY	    Group rows sharing values
-ORDER BY	          Sort result set
+ORDER BY	    Sort result set
 HAVING	            Filter groups (after GROUP BY)
-DISTINCT	          Remove duplicates
-LIMIT	              Limit the number of rows
+DISTINCT	    Remove duplicates
+LIMIT	            Limit the number of rows
 
 ✅ 2. Data Definition Keywords (DDL)
 Used to define and modify structure of database objects like tables.

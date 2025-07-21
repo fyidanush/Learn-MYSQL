@@ -30,11 +30,11 @@ TRUNCATE	Remove all rows, reset auto-increment
 Used to manipulate data within tables.
 
 Keyword	Purpose
-INSERT	Add new rows to a table
-UPDATE	Modify existing rows
-DELETE	Delete rows from a table
-VALUES	Provide data values
-SET	Set column values in UPDATE
+INSERT	    Add new rows to a table
+UPDATE	    Modify existing rows
+DELETE	    Delete rows from a table
+VALUES	    Provide data values
+SET	    Set column values in UPDATE
 
 ✅ 4. Data Control Keywords (DCL)
 Used to control access to data.

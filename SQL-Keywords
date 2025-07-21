@@ -17,10 +17,10 @@ LIMIT	            Limit the number of rows
 Used to define and modify structure of database objects like tables.
 
 Keyword	Purpose
-CREATE	Create tables, databases, etc.
-DROP	Delete tables, databases, etc.
-ALTER	Modify existing table structure
-RENAME	Rename a table or column
+CREATE	    Create tables, databases, etc.
+DROP	    Delete tables, databases, etc.
+ALTER	    Modify existing table structure
+RENAME	    Rename a table or column
 TRUNCATE	Remove all rows, reset auto-increment
 
 ✅ 3. Data Manipulation Keywords (DML)

@@ -39,6 +39,42 @@ Create a table products with a primary key on the column product_id.
 
 Add a foreign key constraint on orders.customer_id referencing customers.customer_id.
 
+
+🧪 DML Practice Questions
+Insert a new student into the students table with the values:
+Student ID = 'S101', Name = 'Arjun', Age = 21, Department = 'CSE'.
+
+Update the salary of an employee with employee_id = 'E123' to ₹75,000 in the employees table.
+
+Delete all records from the logs table where log_type = 'TEMPORARY'.
+
+Insert multiple new products into the products table in a single INSERT statement.
+
+Increase the price of all products in the products table by 10%.
+
+Change the department of all students from 'IT' to 'ECE' in the students table.
+
+Delete customers from the customers table who have not placed any orders (assume a related orders table).
+
+Insert a new order into the orders table using data selected from the cart table.
+
+Update the status column to 'INACTIVE' for employees who haven't logged in since '2024-12-31'.
+
+Insert a new record into the employees table, but if the employee_id already exists, update the email column.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Create a table departments with columns: dept_id, dept_name, and ensure dept_id is unique.
 
 Truncate the logs table to remove all its data but keep its structure.
